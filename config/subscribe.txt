@@ -16,3 +16,5 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/ITV.txt
+https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/ITV2.txt
