@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/%E9%87%8E%E7
 https://live.kilvn.com/iptv.m3u
 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
+https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt
 https://live.izbds.com/tv/iptv4.txt
 https://live.iptv365.org/live.txt
 https://tv.iill.top/m3u/Gather
