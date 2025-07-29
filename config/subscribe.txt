@@ -2,7 +2,6 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt
 https://raw.githubusercontent.com/PizazzGY/TV/refs/heads/master/output/user_result.txt
 https://6758.kstore.space/666.txt
