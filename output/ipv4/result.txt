@@ -1,48 +1,30 @@
-咪咕赛事,#genre#
-
 🎬电影频道,#genre#
-CHC家庭影院,http://hzzzz530.com:4022/udp/239.69.1.243:11100
-CHC动作电影,http://hzzzz530.com:4022/udp/239.69.1.242:11094
-经典电影,https://lunbo.freetv.top/yy/1450556636
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🏀体育频道,#genre#
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
-快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
+快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 🪁动画频道,#genre#
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+黑莓动画,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
-经典动漫,https://lunbo.freetv.top/yy/24180320
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 蜡笔小新,http://47.102.149.208:35455/bilibili/30837590
-漫画解说,https://lunbo.freetv.top/yy/1382735568
 
 🎵音乐频道,#genre#
-风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 
 🏛经典剧场,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
-天龙八部,https://lunbo.freetv.top/yy/1382736855
 天龙八部,http://live.nctv.top/douyu.php?id=7655471
-鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 鹿鼎记,http://live.nctv.top/douyu.php?id=12128227
-仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
 仙剑奇侠传,http://47.102.149.208:35455/yy/1382749903
-三国演义,https://lunbo.freetv.top/yy/1354930932
-三国演义,http://lunbo.freetv.top/yy/1354930932
-水浒传,https://lunbo.freetv.top/yy/1353215589
-新白娘子传奇,https://lunbo.freetv.top/yy/1354490667
-济公游记,https://lunbo.freetv.top/yy/1355265814
 封神榜,https://lunbo.freetv.top/yy/1382797534
 封神榜,http://iptv.jxpan.vip:18888/aio/huya/29465849
-上海滩,https://lunbo.freetv.top/yy/1382745184
-射雕英雄传,http://iptv.jxpan.vip:18888/aio/huya/23824164
 
 🕘️更新时间,#genre#
-2025-08-01 10:32:02,http://hzzzz530.com:4022/udp/239.69.1.243:11100
+2025-08-01 18:37:09,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
