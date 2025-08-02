@@ -1,32 +1,32 @@
 🎬电影频道,#genre#
-黑莓电影,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 
 🏀体育频道,#genre#
-CCTV-5+,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
+CCTV-5,http://218.74.202.234:8081/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩篮球,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
-风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
 
 🪁动画频道,#genre#
-黑莓动画,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
-蜡笔小新,http://47.102.149.208:35455/bilibili/30837590
+猫和老鼠,http://iptv.jxpan.vip:18888/aio/huya/11352879
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
+蜡笔小新,http://47.102.149.208:35455/bilibili/30837590
 
 🎵音乐频道,#genre#
 CCTV-15,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
-风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
+笑傲江湖,http://iptv.jxpan.vip:18888/aio/huya/23865142
 鹿鼎记,http://live.nctv.top/douyu.php?id=12128227
 仙剑奇侠传,http://47.102.149.208:35455/yy/1382749903
 封神榜,https://lunbo.freetv.top/yy/1382797534
-封神榜,http://iptv.jxpan.vip:18888/aio/huya/29465849
 
 🕘️更新时间,#genre#
-2025-08-02 06:38:18,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
+2025-08-02 18:36:22,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
