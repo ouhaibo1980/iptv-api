@@ -1,62 +1,31 @@
 🎬电影频道,#genre#
-黑莓电影,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
 经典电影,https://lunbo.freetv.top/yy/1450556636
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🏀体育频道,#genre#
-CCTV-5,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.170:5146
-CCTV-5,http://www.v5b7.com.cn:7088/udp/239.45.1.69:5140
 CCTV-5,http://dq.eric702.top:8800/udp/239.77.0.170:5146
 CCTV-5,http://120.9.52.56:8809/rtp/239.253.92.181:6046
-CCTV-5,http://113.100.73.223:8899/rtp/239.77.0.170:5146
-CCTV-5,http://123.118.98.52:3391/rtp/239.3.1.173:8001
-CCTV-5,http://222.169.85.8:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
-CCTV-5+,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225821/index.m3u8
-CCTV-5+,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.87:5146
+CCTV-5,http://www.v5b7.com.cn:7088/udp/239.45.1.69:5140
 CCTV-5+,http://123.118.98.52:3391/rtp/239.3.1.130:8004
-CCTV-5+,http://dq.eric702.top:8800/udp/239.77.0.87:5146
-CCTV-5+,http://113.100.73.223:8899/rtp/239.77.0.87:5146
 CCTV-5+,http://120.9.52.56:8809/rtp/239.253.92.82:8013
+CCTV-5+,http://dq.eric702.top:8800/udp/239.77.0.87:5146
 广东体育,http://dq.eric702.top:8800/rtp/239.77.0.168:5146
-广东体育,http://113.100.73.223:8899/rtp/239.77.0.168:5146
-广东体育,http://yahao.myqnapcloud.com:4022/rtp/239.77.0.168:5146
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-睛彩篮球,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227158/index.m3u8
-快乐垂钓,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 JJ斗地主,https://lunbo.freetv.top/douyu/488743
 
 🪁动画频道,#genre#
-黑莓动画,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
-经典动漫,https://lunbo.freetv.top/yy/24180320
-漫画解说,https://lunbo.freetv.top/yy/1382735568
 
 🎵音乐频道,#genre#
-CCTV-15,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
-CCTV-15,http://yahao.myqnapcloud.com:4022/rtp/239.77.1.239:5146
-风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+CCTV-15,http://dq.eric702.top:8800/udp/239.77.1.239:5146
 
 🏛经典剧场,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
-天龙八部,https://lunbo.freetv.top/yy/1382736855
-鹿鼎记,https://lunbo.freetv.top/yy/1354658049
-鹿鼎记,http://live.nctv.top/douyu.php?id=12128227
-仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
-三国演义,https://lunbo.freetv.top/yy/1354930932
-三国演义,http://lunbo.freetv.top/yy/1354930932
-水浒传,https://lunbo.freetv.top/yy/1353215589
-新白娘子传奇,https://lunbo.freetv.top/yy/1354490667
-济公游记,https://lunbo.freetv.top/yy/1355265814
 封神榜,https://lunbo.freetv.top/yy/1382797534
-封神榜,http://iptv.jxpan.vip:18888/aio/huya/29465849
-上海滩,https://lunbo.freetv.top/yy/1382745184
 射雕英雄传,http://iptv.jxpan.vip:18888/aio/huya/23824164
 
 🕘️更新时间,#genre#
-2025-08-05 06:42:33,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
+2025-08-05 18:36:22,https://lunbo.freetv.top/yy/1450556636
