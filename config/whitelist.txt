@@ -9,4 +9,3 @@ https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/mai
 https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u
 https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.txt
 http://be.is-best.net/i/8/5611948.txt
-https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
