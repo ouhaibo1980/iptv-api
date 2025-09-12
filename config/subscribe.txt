@@ -38,8 +38,6 @@ https://live.zbds.top/tv/iptv6.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
-
-https://tv.iill.top/m3u/Gather
 https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m
 
 
